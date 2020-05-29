@@ -1,0 +1,691 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/Test_Save.uasset" 1
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/crosshair2.uasset" 2
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/HUD.uasset" 3
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/PauseMenu.uasset" 4
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/Clocktick.uasset" 5
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/Portal2-06-TEST.uasset" 6
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TimeResume.uasset" 7
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TimeStop.uasset" 8
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/BasicCharacterBP.uasset" 9
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/AlternateTimeGameModeBP.uasset" 10
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/AlternateTimeGameModeBP.uasset" 11
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_06.uasset" 12
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/WallMat.uasset" 13
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/WallMat_Inst2.uasset" 14
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/BoxLid_Auto4.uasset" 15
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_14.uasset" 16
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/ActiveBoxMat.uasset" 17
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_12.uasset" 18
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/BoxMat.uasset" 19
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/Cube.uasset" 20
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/Cube_Blueprint.uasset" 21
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Cube_Blueprint.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 23
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 24
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 25
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 26
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LightBulbMatRed.uasset" 27
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/ClockLightRed.uasset" 28
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Line1Level4_Auto3.uasset" 29
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/blackgrid.uasset" 30
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/blackgrid_Mat.uasset" 31
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MainMenuBox.uasset" 32
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 33
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 34
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 35
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 36
+"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset" 37
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/M_FloorSM_WallMat_AADDF23145FF228D817C1CBE51633A18.uasset" 38
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/M_FloorSM_WallMat_Inst2_AADDF23145FF228D817C1CBE51633A18.uasset" 39
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/M_FloorSM_WorldGridMaterial_AADDF23145FF228D817C1CBE51633A18.uasset" 40
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/PlatformRaiser_Auto3.uasset" 41
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/PostProcessHandleBP.uasset" 42
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/PostProcessor.uasset" 43
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StairsSM.uasset" 44
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/TipsPopup.uasset" 45
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/HUD_BP.uasset" 46
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/savegame.uasset" 47
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/SaveGameBP.uasset" 48
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/BoxLid_Auto4.uasset" 49
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Line1Level4_Auto3.uasset" 50
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/PlatformRaiser_Auto3.uasset" 51
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Blueprints/BasicCharacterBP_Auto2.uasset" 52
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Blueprints/BasicCharacterBP_Auto3.uasset" 53
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Blueprints/BasicCharacterBP_Auto6.uasset" 54
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Levels/BaseLevel_BuiltData.uasset" 55
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_05.uasset" 56
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Textures/texture_05_Mat_Auto2.uasset" 57
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Textures/texture_11_Auto3.uasset" 58
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Levels/BaseLevel.uasset" 59
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/ActiveBoxMat_Inst.uasset" 60
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/BoxMat_Inst.uasset" 61
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/cubeboxdispnormal.uasset" 62
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/CubeDispNormal.uasset" 63
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_09.uasset" 64
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/DoorFrameMat.uasset" 65
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/lambert1.uasset" 66
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LoudSpeaker_Bracket1.uasset" 67
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LoudSpeaker_Cable_03.uasset" 68
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LoudSpeaker_Cable_04.uasset" 69
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/main_Mat.uasset" 70
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/mask_Mat.uasset" 71
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/mask_Mat_Inst.uasset" 72
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_MacroVariation.uasset" 73
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 74
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 75
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/M_Metal_Steel.uasset" 76
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Circle05Mat.uasset" 77
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Circle05.uasset" 78
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Circle06Mat.uasset" 79
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Circle06.uasset" 80
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Cylinder05Mat.uasset" 81
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Cylinder05.uasset" 82
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Cylinder06Mat.uasset" 83
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Cylinder06.uasset" 84
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Cylinder07Mat.uasset" 85
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Cylinder07.uasset" 86
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Line05Mat.uasset" 87
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Line05.uasset" 88
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Line06Mat.uasset" 89
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Line06.uasset" 90
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Line07Mat.uasset" 91
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Line07.uasset" 92
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Line08Mat.uasset" 93
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Line08.uasset" 94
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Line09Mat.uasset" 95
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Line09.uasset" 96
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Rectangle01Mat.uasset" 97
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Rectangle01.uasset" 98
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Rectangle03Mat.uasset" 99
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Rectangle03.uasset" 100
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Rectangle04Mat.uasset" 101
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Rectangle04.uasset" 102
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Rectangle05Mat.uasset" 103
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Rectangle05.uasset" 104
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Rectangle06Mat.uasset" 105
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Rectangle06.uasset" 106
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Sphere02Mat.uasset" 107
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Sphere02.uasset" 108
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/Sphere03Mat.uasset" 109
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/alarm_clock_Sphere03.uasset" 110
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/sci_fi_extinguisher.uasset" 111
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/WallMat_Inst.uasset" 112
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/SM_Floor.uasset" 113
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LampMat.uasset" 114
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LampMat_Inst.uasset" 115
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/SM_Lamp.uasset" 116
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/Speaker_floor.uasset" 117
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/Speaker_SPEAKER.uasset" 118
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/doorclose.uasset" 119
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/dooropen.uasset" 120
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/Portal2-16-Hard_Sunshine.uasset" 121
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TechDemoAudio.uasset" 122
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/level1hint1.uasset" 123
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/level2hint1.uasset" 124
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/level2hint2.uasset" 125
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/level3hint1.uasset" 126
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/level3hint2.uasset" 127
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TESTAUDIO/finaleroomtest.uasset" 128
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TESTAUDIO/room1test.uasset" 129
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TESTAUDIO/room2test.uasset" 130
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TESTAUDIO/room3test.uasset" 131
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TESTAUDIO/room4test.uasset" 132
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TESTAUDIO/room5test.uasset" 133
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/TESTAUDIO/room6test.uasset" 134
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Splash/EdSplash.uasset" 135
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Splash/Splash.uasset" 136
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Basic_Wall.uasset" 137
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Pillar_50x500.uasset" 138
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_400x300.uasset" 139
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_400x400.uasset" 140
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_500x500.uasset" 141
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 142
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 143
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Collapse01.uasset" 144
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Collapse02.uasset" 145
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Explosion01.uasset" 146
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Explosion02.uasset" 147
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Fire01.uasset" 148
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Fire_Sparks01.uasset" 149
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Light01.uasset" 150
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Light01_Cue.uasset" 151
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Light02.uasset" 152
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Light02_Cue.uasset" 153
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Smoke01.uasset" 154
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Starter_Birds01.uasset" 155
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Starter_Music01.uasset" 156
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Starter_Wind05.uasset" 157
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Starter_Wind06.uasset" 158
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Steam01.uasset" 159
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Explosion_Cue.uasset" 160
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Burst_M.uasset" 161
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_Burst.uasset" 162
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 163
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 164
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 165
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 166
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 167
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 168
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 169
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 170
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/P_Explosion.uasset" 171
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 172
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 173
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 174
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 175
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 176
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/M_Metal_Gold.uasset" 177
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Gold_Inst.uasset" 178
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Bush_D.uasset" 179
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Bush_N.uasset" 180
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Bush.uasset" 181
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Bush.uasset" 182
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Chair_M.uasset" 183
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Chair_N.uasset" 184
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Chair.uasset" 185
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Couch.uasset" 186
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Glass.uasset" 187
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Door_M.uasset" 188
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Door_N.uasset" 189
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Door.uasset" 190
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Door.uasset" 191
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 192
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 193
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 194
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 195
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 196
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 197
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_RockMesh_M.uasset" 198
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_RockMesh_N.uasset" 199
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Rock.uasset" 200
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Rock.uasset" 201
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Shelf_M.uasset" 202
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Shelf_N.uasset" 203
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Shelf.uasset" 204
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Shelf.uasset" 205
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Basic_Floor.uasset" 206
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Stairs.uasset" 207
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Cone.uasset" 208
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 209
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 210
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Pipe.uasset" 211
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 212
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 213
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Plane.uasset" 214
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Torus.uasset" 215
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Trim.uasset" 216
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 217
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 218
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 219
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Tube.uasset" 220
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 221
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 222
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 223
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/redtexture_01.uasset" 224
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/TextBackground.uasset" 225
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_02.uasset" 226
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_05_Mat.uasset" 227
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_05_Mat_Auto2.uasset" 228
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_07.uasset" 229
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_08.uasset" 230
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_08_Mat.uasset" 231
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_10.uasset" 232
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_11_Auto3.uasset" 233
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_13.uasset" 234
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 235
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 236
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 237
+"../../../Engine/Content/BasicShapes/Cone.uasset" 238
+"../../../Engine/Content/BasicShapes/Plane.uasset" 239
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 240
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 241
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 242
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 243
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 244
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 245
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 249
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 250
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 251
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 252
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 253
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 254
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 255
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 256
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 257
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 258
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 259
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 260
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 261
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 262
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 263
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 264
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 265
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 266
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 267
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 268
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 269
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 270
+"../../../Engine/Content/EditorResources/S_Note.uasset" 271
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 272
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 273
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 274
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 275
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 276
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 277
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 278
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 279
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 280
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 281
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 282
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 283
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 284
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 285
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 286
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 287
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 288
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 289
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 290
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 291
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 292
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 293
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 294
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 295
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 296
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 297
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 298
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 299
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 300
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 301
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 302
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 303
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 304
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 305
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 306
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 308
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 309
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 310
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 311
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 312
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 313
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 314
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 315
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 316
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 317
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 318
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 319
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 320
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 321
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 322
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 323
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 324
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 325
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 326
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 327
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 328
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 329
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 330
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 331
+"../../../Engine/Content/EngineResources/Black.uasset" 332
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 333
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 334
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 335
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 336
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 337
+"../../../Engine/Content/EngineSounds/Master.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 339
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 340
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 341
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 342
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 343
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 344
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 352
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 357
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 358
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 359
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 360
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 361
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 362
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 363
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 364
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 365
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 366
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 367
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 368
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 369
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 370
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 371
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 372
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 373
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 374
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 375
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 376
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 377
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 378
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 379
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 380
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 381
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 382
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 383
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 384
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 385
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 386
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 387
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 388
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 389
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 392
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 393
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 394
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 395
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 396
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 397
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 398
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 399
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 400
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 401
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 402
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 403
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 404
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 405
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 406
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 407
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 408
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 409
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_11.uasset" 410
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/AntiTimeCube_Mat.uasset" 411
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/AntiTimeCube_Blueprint.uasset" 412
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 413
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 414
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 415
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 416
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 417
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 418
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 419
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 420
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 421
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Levels/MainLevel_BuiltData.uasset" 422
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Levels/BaseLevel_BuiltData.uasset" 423
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/BlackMat.uasset" 424
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_01.uasset" 425
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/BlackSquaresMat.uasset" 426
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/graytex_Mat.uasset" 427
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/M_Glass.uasset" 428
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/texture_03.uasset" 429
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/MovingPlatformMat.uasset" 430
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/GlowingPlatformBlue.uasset" 431
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/GlowingPlatformBlue_Inst.uasset" 432
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 433
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/BoxLid.uasset" 434
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Line1Level4.uasset" 435
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LoudSpeaker_Speaker1.uasset" 436
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/SM_BorderWall.uasset" 437
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LightBulbMatGreen.uasset" 438
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LightBulbMatGreen_Inst.uasset" 439
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LightBulbMatRed_Inst.uasset" 440
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/SM_DoorLight.uasset" 441
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Steel.uasset" 442
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LightRodMat.uasset" 443
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/LightRodMat_Inst.uasset" 444
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/SM_LightRod.uasset" 445
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/buttontex.uasset" 446
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/ButtonMat.uasset" 447
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/ButtonMatInst.uasset" 448
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/darkredtexture_01.uasset" 449
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/ButtonSideMat.uasset" 450
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/ButtonSideMatInst.uasset" 451
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Meshes/SM_RedButton.uasset" 452
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MovingPlatform.uasset" 453
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/PlatformRaiser.uasset" 454
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/500762__waxsocks__sliding-door.uasset" 455
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/BIGDOORCLOSE.uasset" 456
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/Level1IntroAudio.uasset" 457
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Game/Levels/BaseLevel.umap" 458
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 459
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/cubeboxdispAT.uasset" 460
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/CubeDispAT.uasset" 461
+"../../../Engine/Content/BasicShapes/Cube.uasset" 462
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/MOVEPOPUP.uasset" 463
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Textures/SPACEPOPUP.uasset" 464
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/IntroRoomTutorialHUD.uasset" 465
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/PauseHUD.uasset" 466
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Box_Brush18_StaticMesh.uasset" 467
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/M_FloorSM_M_M_FloorSM_WallMat_AADDF23145FF228D817C1CBE51633A18_B628E8EC4245048702815B82B7E37006.uasset" 468
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/M_FloorSM_M_M_FloorSM_WallMat_Inst2_AADDF23145FF228D817C1CBE51633A18_B628E8EC4245048702815B82B7E37006.uasset" 469
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/M_FloorSM_M_M_FloorSM_WorldGridMaterial_AADDF23145FF228D817C1CBE51633A18_B628E8EC4245048702815B82B7E37006.uasset" 470
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/FloorSM.uasset" 471
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/GuidingPathSM.uasset" 472
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/HoverPlatform.uasset" 473
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/HoverPlatformMoverSM.uasset" 474
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/PlatformMoverConnectorSM.uasset" 475
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/FinaleRoomAudio.uasset" 476
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/IntroAudio.uasset" 477
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/Level1Audio.uasset" 478
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/Level2Audio.uasset" 479
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/Level3Audio.uasset" 480
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/Level4Audio.uasset" 481
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/FINALAUDIO_VC1/silence.uasset" 482
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Levels/MainLevel.umap" 483
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Sounds/Portal2-17-Robot_Waiting_Room__1.uasset" 484
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/DefaultPawn_BP.uasset" 485
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/AlternateTimeMainMenuBP.uasset" 486
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Levels/MainMenu_BuiltData.uasset" 487
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/blackgrid_mat2.uasset" 488
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MaterialsInstances/blackgrid_mat2_Inst.uasset" 489
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Blueprints/MainMenu.uasset" 490
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/MainMenuPlatform.uasset" 491
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/Levels/MainMenu.umap" 492
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 493
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 494
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 495
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 496
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 497
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 498
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 499
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 500
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 501
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 502
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 503
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 504
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 505
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_AssetPlatform.uasset" 506
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 507
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 508
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 509
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 510
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 511
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 512
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 513
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 514
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Maps/Advanced_Lighting.umap" 515
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 516
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 517
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 518
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 519
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 520
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Copper.uasset" 521
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Statue_M.uasset" 522
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Statue_N.uasset" 523
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 524
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Floor_400x400.uasset" 525
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 526
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Chair.uasset" 527
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Statue.uasset" 528
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Statue.uasset" 529
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_TableRound_M.uasset" 530
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_TableRound_N.uasset" 531
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_TableRound.uasset" 532
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_TableRound.uasset" 533
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Maps/Minimal_Default.umap" 534
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Fire01_Cue.uasset" 535
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 536
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 537
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 538
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Water_N.uasset" 539
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 540
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 541
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/P_Fire.uasset" 542
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 543
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Smoke01_Cue.uasset" 544
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/P_Smoke.uasset" 545
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 546
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 547
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Spark_Core.uasset" 548
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_Spark.uasset" 549
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/P_Sparks.uasset" 550
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 551
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Steam01_Cue.uasset" 552
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/P_Steam_Lit.uasset" 553
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 554
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Lamp_M.uasset" 555
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Lamp_N.uasset" 556
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Lamp.uasset" 557
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 558
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 559
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 560
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 561
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 562
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 563
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 564
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 565
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 566
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 567
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 568
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 569
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 570
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 571
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 572
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 573
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 574
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 575
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 576
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 577
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 578
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 579
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 580
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 581
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 582
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 583
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 584
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 585
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 586
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 587
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 588
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 589
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 590
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 591
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 592
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 593
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Gradinet_01.uasset" 594
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 595
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 596
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 597
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 598
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 599
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 600
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 601
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 602
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 603
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 604
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 605
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 606
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 607
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 608
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 609
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 610
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 611
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 612
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 613
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 614
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 615
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 616
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Ground_Grass.uasset" 617
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 618
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 619
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 620
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 621
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 622
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Ground_Moss.uasset" 623
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 624
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Gold.uasset" 625
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 626
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Metal_Rust.uasset" 627
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 628
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 629
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 630
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 631
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 632
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 633
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 634
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 635
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Rock_Slate.uasset" 636
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 637
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 638
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 639
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 640
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 641
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 642
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 643
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 644
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 645
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 646
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 647
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Tech_Panel.uasset" 648
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Water_Lake.uasset" 649
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Water_M.uasset" 650
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Water_Ocean.uasset" 651
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 652
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 653
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 654
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 655
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 656
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 657
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 658
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 659
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Wood_Oak.uasset" 660
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 661
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 662
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Wood_Pine.uasset" 663
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 664
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 665
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 666
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_400x200.uasset" 667
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 668
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 669
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Collapse_Cue.uasset" 670
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 671
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 672
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 673
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 674
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/MaterialSphere.uasset" 675
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Frame_M.uasset" 676
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Textures/T_Frame_N.uasset" 677
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/Materials/M_Frame.uasset" 678
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_CornerFrame.uasset" 679
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_DoorFrame.uasset" 680
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_GlassWindow.uasset" 681
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_PillarFrame.uasset" 682
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_PillarFrame300.uasset" 683
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Props/SM_WindowFrame.uasset" 684
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Cube.uasset" 685
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 686
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Shapes/Shape_Sphere.uasset" 687
+"../../../../../Udemy/Unreal Engine/AlternateTime/Content/StarterContent/Maps/StarterMap.umap" 688
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 689
+"../../../Engine/Content/Maps/Entry.umap" 690
